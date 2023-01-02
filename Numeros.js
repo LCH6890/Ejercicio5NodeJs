@@ -13,4 +13,4 @@ console.log(Math.round(peso))
 
 //Variable +1
 
-let max_valor_JS = Number.MAX_VALUE
+const sonIguales = Number.MAX_VALUE + 1 === Number.MAX_VALUE
